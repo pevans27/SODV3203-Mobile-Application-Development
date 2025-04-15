@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">projectXXX</string>
+
+    <string name="banff">Banff</string>
+    <string name="from_200">From $200</string>
+    <string name="national_park">National Park in Alberta</string>
+
+    <string name="jasper">Jasper National Park</string>
+    <string name="from_250">From $250</string>
+
+    <string name="lakelouise">Lake Louise</string>
+    <string name="lake_louise_alberta">Lake Louise, Alberta</string>
+
+    <string name="canmore">Canmore Downtown</string>
+    <string name="from_100">From $100</string>
+    <string name="canmore_alberta">Canmore, Alberta</string>
+
+    <string name="lakemoraine">Lake Moraine</string>
+    <string name="from_220">From $220</string>
+    <string name="lake_moraine_alberta">Lake Moraine, Alberta</string>
+
+    <string name="columbia">Columbia Icefield</string>
+    <string name="from_180">From $180</string>
+    <string name="columbia_icefield">Columbia Icefield</string>
+
+    <string name="whistler">Whistler</string>
+    <string name="from_300">From $300</string>
+    <string name="whistler_bc">Whistler, British Columbia</string>
+
+    <string name="niagra">Niagara Falls</string>
+    <string name="from_190">From $190</string>
+    <string name="niagara_falls">Niagara Falls, Ontario</string>
+
+    <string name="lodge">Lake Louise Lodge</string>
+    <string name="from_320">From $320</string>
+    <string name="lake_louise_lodge">Lake Louise Lodge, Alberta</string>
+
+    <!-- Add common strings for categories and navigation -->
+    <string name="top_travel_picks">Top Travel Picks</string>
+    <string name="recent">Recent</string>
+    <string name="search_destinations">Search Destinations</string>
+    <string name="book_your_trip">BOOK YOUR TRIP</string>
+
+    <!-- General descriptions -->
+    <string name="about">About</string>
+    <string name="lake_louise_is_a_hamlet_within_banff_national_park_in_alberta_canada_named_after_princess_louise_duchess_of_argyll_it_lies_in_alberta_s_rockies_on_the_bow_river_3_km_1_9_mi_northeast_of_the_lake_that_shares_its_name_initially_settled_in_1884_as_an_outpost_for_the_canadian_pacific_railway_lake_louise_sits_at_an_elevation_of_1_600_m_5_200_ft_making_it_canada_s_highest_community_the_nearby_lake_framed_by_mountains_is_one_of_the_most_famous_mountain_vistas_in_the_world_lake_louise_features_a_shopping_centre_named_samson_mall_lake_louise_ski_resort_a_downhill_ski_area_is_located_across_highway_1_chateau_lake_louise_is_southwest_of_the_community_on_the_shores_of_the_lake">Lake Louise is a hamlet within Banff National Park in Alberta, Canada. Named after Princess Louise, Duchess of Argyll, it lies in Alberta\'s Rockies on the Bow River, 3 km (1.9 mi) northeast of the lake that shares its name...</string>
+
+    <string name="photogallery">Photogallery</string>
+    <string name="todoview">TODO</string>
+    <string name="todoimage">TODO</string>
+    <string name="favorites">Favorites</string>
+    <string name="popular_destination">Popular Destination</string>
+    <string name="todothins">TODO</string>
+    <string name="google_maps_api_key">Map</string>
+    <string name="explore_canada">Explore Canada</string>
+    <string name="your_next_destination">Your Next Destination</string>
+    <string name="home">Home</string>
+    <string name="calendar">Calendar</string>
+    <string name="profile">Profile</string>
+    <string name="todostar">Star</string>
+    <string name="todoback">Back</string>
+    <string name="_7_5">Back</string>
+
+
+</resources>
